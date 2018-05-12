@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '5381'
     url: http://www.gutenberg.org/2009/agents/5381
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14134#Akbar-Emperor-of-India--13-A-Picture-of-Life-and-Customs-from-the-Sixteenth-Century
 gutenberg_bookshelf: India
 gutenberg_issued: '2004-11-23'
 gutenberg_type: Text
