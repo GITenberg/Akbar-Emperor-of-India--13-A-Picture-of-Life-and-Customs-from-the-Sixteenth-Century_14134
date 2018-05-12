@@ -1,0 +1,40 @@
+_repo: Akbar-Emperor-of-India--13-A-Picture-of-Life-and-Customs-from-the-Sixteenth-Century_14134
+_version: 0.1.0
+alternative_title: Kaiser Akbar. English
+contributor:
+  translator:
+    agent_name: Robinson, Lydia Gillingham
+    birthdate: 1875
+    gutenberg_agent_id: '39567'
+    url: http://www.gutenberg.org/2009/agents/39567
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garbe, Richard
+    aliases:
+    - Garbe, Richard von
+    - Garbe, R. (Richard)
+    - Von Garbe, Richard
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '5381'
+    url: http://www.gutenberg.org/2009/agents/5381
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '2004-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Mogul Empire'
+- !lcsh 'Akbar, Emperor of Hindustan, 1542-1605'
+title: "Akbar, Emperor of India\r\nA Picture of Life and Customs from the Sixteenth\
+  \ Century"
+url: http://www.gutenberg.org/ebooks/14134
